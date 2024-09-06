@@ -115,3 +115,5 @@ dmypy.json
 
 # pyright
 pyrightconfig.json
+
+.DS_Store
