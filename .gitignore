@@ -115,6 +115,3 @@ dmypy.json
 
 # pyright
 pyrightconfig.json
-
-# devcontainer settings
-.devcontainer/
