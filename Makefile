@@ -1,8 +1,11 @@
 install:
-  pip install -r requirements.txt
+	# This line must begin with a tab, not spaces
+	pip install -r requirements.txt
 
 lint:
-  pylint src/
+	# This line must begin with a tab, not spaces
+	pylint src/
 
 test:
-  pytest
+	# This line must begin with a tab, not spaces
+	pytest
